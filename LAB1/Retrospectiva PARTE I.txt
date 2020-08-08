@@ -1,0 +1,13 @@
+ ¿Las dos parejas lo pudieron hacer?
+ -Si pero una presento un problema al hacer el push.
+ 
+ 
+ ¿Qué quedó al final en la versión oficial?
+ - Dos modificaciones, la primera de la pareja 1 que tuvo inicialmente
+ el problema del push y la segunda de la pareja 2 que no tuvo inconvenientes.
+ 
+ ¿Qué diferencia hay ahora en el historial de cambios en el repositorio?
+ -Aparecen dos lineas en el tiempo (por decirlo asi), donde muestra que se modifico al tiempo
+ y la apariencia de cada modificacion, tanto la de la pareja 1 como la de la 2.
+ 
+ 
