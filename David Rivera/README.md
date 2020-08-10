@@ -7,8 +7,11 @@
 
 ## Series favortitas.
 
+### 1. *La casa de papel*
 ![1. *La casa de papel*](https://www.futbolred.com/files/article_main/uploads/2020/04/02/5e861d0d876a7.jpeg)
 
+
+### 2. *The society*
 ![2. *The society*](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/the-society-serie-netflix-poster-1556612614.jpg)}
 
 ## Plan de estudios.
